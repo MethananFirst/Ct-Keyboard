@@ -1,0 +1,216 @@
+{
+  "formCreateaccount": [
+    {
+      "username": "A",
+      "password": "A",
+      "firstname": "Sorawit",
+      "lastname": "jongjamreeseethong",
+      "email": "A@gmail.com",
+      "address": "Thailan",
+      "cart": [],
+      "id": 1
+    },
+    {
+      "username": "First",
+      "password": "first1",
+      "firstname": "Sorawit",
+      "lastname": "J",
+      "email": "f@gmail.com",
+      "address": "Thailand",
+      "cart": [],
+      "id": 2
+    },
+    {
+      "username": "opelish081",
+      "password": "a019975371",
+      "firstname": "Sorawit",
+      "lastname": "Qian",
+      "email": "chian112@gmail.com",
+      "address": "Nakhonpathom, Thailand",
+      "cart": [
+        {
+          "id": "1",
+          "productName": "Keychron K8 Pro Mechanical Keyboard",
+          "productPrice": "7590",
+          "productPicture": "../src/image/product/k8p.jpg",
+          "quantity": 4,
+          "color": "Black",
+          "switch": "Red"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "Moontiw",
+      "password": "Chay-3345",
+      "firstname": "Sittichok",
+      "lastname": "Naiyanit",
+      "email": "olarn.roj@kmutt.ac.th",
+      "address": "1212312121",
+      "cart": [],
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Keychron K8 Pro Mechanical Keyboard",
+      "price": "7590",
+      "tag": "keyboard",
+      "interface": "wireless",
+      "brand": "Keychron",
+      "layout": "80%",
+      "picture": [
+        "../src/image/product/k8p.jpg",
+        "../src/image/product/k8p1.jpg",
+        "../src/image/product/k8p2.jpg",
+        "../src/image/product/k8p3.jpg",
+        "../src/image/product/k8p4.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Keychron Q3 Pro Custom Mechanical Keyboard",
+      "price": "4590",
+      "tag": "keyboard",
+      "interface": "wireless",
+      "brand": "Keychron",
+      "layout": "80%",
+      "picture": [
+        "../src/image/product/q3p2.jpg",
+        "../src/image/product/q3p1.jpg",
+        "../src/image/product/q3p3.jpg",
+        "../src/image/product/q3p4.jpg",
+        "../src/image/product/q3p5.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "RK61 Wireless Mechanical Keyboard",
+      "price": "1690",
+      "tag": "keyboard",
+      "interface": "wireless",
+      "brand": "RoyalKludge",
+      "layout": "60%",
+      "picture": [
+        "../src/image/product/rk1.jpg",
+        "../src/image/product/rk2.jpg",
+        "../src/image/product/rk3.jpg",
+        "../src/image/product/rk4.jpg",
+        "../src/image/product/rk5.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "RK920 Full Size Mechanical Keyboard",
+      "price": "2700",
+      "tag": "keyboard",
+      "interface": "USB",
+      "brand": "RoyalKludge",
+      "layout": "FullSize",
+      "picture": [
+        "../src/image/product/rk01.jpg",
+        "../src/image/product/rk02.jpg",
+        "../src/image/product/rk03.jpg",
+        "../src/image/product/rk04.jpg",
+        "../src/image/product/rk05.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Akko 5075B Plus Black&Cyan Wireless Mechanical Keyboard",
+      "price": "3290",
+      "tag": "keyboard",
+      "interface": "wireless",
+      "brand": "Akko",
+      "layout": "75%",
+      "picture": [
+        "../src/image/product/ak4.jpg",
+        "../src/image/product/ak1.jpg",
+        "../src/image/product/ak2.jpg",
+        "../src/image/product/ak3.jpg",
+        "../src/image/product/ak5.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Logitech Gaming Keyboard G512 RGB Mechanical GX Brown Tactile Black",
+      "price": "3290",
+      "tag": "keyboard",
+      "interface": "USB",
+      "brand": "Logitech",
+      "layout": "FullSize",
+      "picture": [
+        "../src/image/product/logi01.jpg",
+        "../src/image/product/logi02.jpg",
+        "../src/image/product/logi03.jpg",
+        "../src/image/product/logi04.jpg",
+        "../src/image/product/logi05.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "RAZER BLACKWIDOW V4 75%",
+      "price": "3060",
+      "tag": "keyboard",
+      "interface": "USB",
+      "brand": "Razer",
+      "layout": "75%",
+      "picture": [
+        "../src/image/product/raz1.jpg",
+        "../src/image/product/raz2.jpg",
+        "../src/image/product/raz3.jpg",
+        "../src/image/product/raz4.jpg",
+        "../src/image/product/raz5.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "KEYBOARD ASUS ROG STRIX FLARE II ANIMATE",
+      "price": "3890",
+      "tag": "keyboard",
+      "interface": "USB",
+      "brand": "Asus",
+      "layout": "FullSize",
+      "picture": [
+        "../src/image/product/as1.jpg",
+        "../src/image/product/as2.jpg",
+        "../src/image/product/as3.jpg",
+        "../src/image/product/as4.jpg",
+        "../src/image/product/as5.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "KEYBOARD CORSAIR K70 RGB TKL CHAMPION",
+      "price": "5190",
+      "tag": "keyboard",
+      "interface": "USB",
+      "brand": "Corsair",
+      "layout": "FullSize",
+      "picture": [
+        "../src/image/product/cor1.jpg",
+        "../src/image/product/cor2.jpg",
+        "../src/image/product/cor3.jpg",
+        "../src/image/product/cor4.jpg",
+        "../src/image/product/cor5.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "WIRELESS KEYBOARD LOGITECH G PRO X TKL",
+      "price": "6590",
+      "tag": "keyboard",
+      "interface": "wireless",
+      "brand": "Logitech",
+      "layout": "75%",
+      "picture": [
+        "../src/image/product/logi5.jpg",
+        "../src/image/product/logi4.jpg",
+        "../src/image/product/logi1.jpg",
+        "../src/image/product/logi2.jpg",
+        "../src/image/product/logi3.jpg"
+      ]
+    }
+  ]
+}
